@@ -1,0 +1,1254 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Sep-20-2018 at 14:36:18 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SOLAR_UNIPOLARMOTOR';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C109 'CAP_0603G_B_10U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5204958@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5204958@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5204958@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C110 'CAP_0201_1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5204976@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5204976@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5204976@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C111 'CAP_0201_0.1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5204994@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5204994@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5204994@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C112 'CAP_0603G_B_10U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5205348@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5205348@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5205348@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C113 'CAP_0201_1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5205366@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5205366@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5205366@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C114 'CAP_0201_0.1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5205384@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5205384@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5205384@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C124 'CAP_0603G_B_10U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5224983@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5224983@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5224983@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C125 'CAP_0603G_B_10U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5225013@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5225013@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5225013@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C126 'CAP_0201_1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5225043@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5225043@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5225043@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C127 'CAP_0201_0.1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5225073@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5225073@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5225073@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C128 'CAP_0201_1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5228222@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5228222@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5228222@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C129 'CAP_0201_0.1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5228240@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5228240@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5228240@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C130 'CAP_0603G_B_10U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5228258@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5228258@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5228258@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C134 'CAP_0603G_B_10U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5245436@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5245436@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5245436@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C135 'CAP_0201_1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5245454@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5245454@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5245454@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C136 'CAP_0201_0.1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5245472@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5245472@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5245472@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C139 'CAP_0402C_B_1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5297432@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5297432@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5297432@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C140 'CAP_0402C_B_1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5297523@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5297523@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5297523@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C142 'CAPACITOR NON-POL_0201_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5297723@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5297723@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5297723@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C143 'CAPACITOR NON-POL_0201_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5297855@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5297855@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5297855@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C145 'CAP_0805G_10U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5302836@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5302836@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5302836@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C146 'CAPACITOR NON-POL_0603G_B_2.2UF':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5310439@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5310439@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5310439@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C148 'CAPACITOR NON-POL_0805G_4.7UF':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5310724@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5310724@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5310724@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C149 'CAP_0402C_B_1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5312024@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5312024@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5312024@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C150 'CAP_0805G_10U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5312326@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5312326@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5312326@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C151 'CAPACITOR NON-POL_0402C_B_4.7UF':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5313145@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5313145@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5313145@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'CAP NP_0201_0.1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5240149@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5240149@discrete.\cap np.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5240149@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C55 'CAP_0603G_B_10U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5172538@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5172538@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5172538@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C56 'CAP_0603G_B_4.7U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5172554@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5172554@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5172554@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C58 'CAP_0201_1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5172596@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5172596@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5172596@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C59 'CAP_0201_0.1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5172622@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5172622@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5172622@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C85 'CAP_0603G_B_10U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5193799@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5193799@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5193799@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C86 'CAP_0201_1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5193817@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5193817@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5193817@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C87 'CAP_0201_0.1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5193835@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5193835@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5193835@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C88 'CAP_0603G_B_10U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5197729@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5197729@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5197729@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C89 'CAP_0201_1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5197747@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5197747@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5197747@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C90 'CAP_0201_0.1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5197765@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5197765@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5197765@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C91 'CAP_0603G_B_10U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5198383@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5198383@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5198383@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C92 'CAP_0201_1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5198401@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5198401@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5198401@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C93 'CAP_0201_0.1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5198419@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5198419@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5198419@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C94 'CAP_0201_1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5199648@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5199648@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5199648@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C95 'CAP_0201_0.1U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5199666@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5199666@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5199666@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C96 'CAP_0603G_B_10U':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5200260@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5200260@discrete.\cap.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5200260@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D15 'DIODE_0402R_B_CDBQC0130L-HF':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5253293@DW_DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5253293@dw_discrete.\diode.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5253293@dw_discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D18 'LED_0603G_B_150060GS75000':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5240083@DW_DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5240083@dw_discrete.\led.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5240083@dw_discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D19 'LED_0603G_B_150060RS75000':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5249883@DW_DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5249883@dw_discrete.\led.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5249883@dw_discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D20 'DIODE_0402R_B_CDBQC0130L-HF':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5253439@DW_DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5253439@dw_discrete.\diode.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5253439@dw_discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D21 'DIODE_DO201-15_1N5408-G':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5294568@DW_DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5294568@dw_discrete.\diode.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5294568@dw_discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D22 'DIODE_DO201-15_1N5408-G':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5295121@DW_DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5295121@dw_discrete.\diode.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5295121@dw_discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D23 'DIODE_DO201-15_1N5408-G':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5295918@DW_DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5295918@dw_discrete.\diode.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5295918@dw_discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D24 'DIODE_DO201-15_1N5408-G':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5296096@DW_DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5296096@dw_discrete.\diode.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5296096@dw_discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D25 'LED_0603G_B_150060GS75000':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5298533@DW_DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5298533@dw_discrete.\led.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5298533@dw_discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D26 'LED_0603G_B_150060RS75000':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5298551@DW_DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5298551@dw_discrete.\led.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5298551@dw_discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D27 'BAT54C/SOT_SOT23-R_BAT54C/SOT':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5303578@DISCRETE.BAT54C/SOT.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5303578@discrete.\bat54c/sot.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5303578@discrete.\bat54c/sot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ H1 'COIN CELL BAT HOLDER_CR2032-SMD':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5251183@SOLAR_PART.COIN CELL BAT HOLDER.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5251183@solar_part.\coin cell bat holder.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5251183@solar_part.\coin cell bat holder.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER 16_JUMPER16X1_LCD CONN':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5148421@CONNECTOR.HEADER 16.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5148421@connector.\header 16.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5148421@connector.\header 16.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 'CON2_JUMPER2_FAN CONN':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5187769@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5187769@connector.\con2.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5187769@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J12 'HEADER 8_HEADER_8_SMT_254MM_HEA':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5190076@CONNECTOR.HEADER 8.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5190076@connector.\header 8.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5190076@connector.\header 8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J13 'HEADER 4_JUMPER4_HEADER 4':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5232141@CONNECTOR.HEADER 4.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5232141@connector.\header 4.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5232141@connector.\header 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J14 'HEADER 8_HEADER_8_SMT_254MM_HEA':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5281564@CONNECTOR.HEADER 8.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5281564@connector.\header 8.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5281564@connector.\header 8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J15 'HEADER 8_HEADER_8_SMT_254MM_HEA':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5281614@CONNECTOR.HEADER 8.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5281614@connector.\header 8.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5281614@connector.\header 8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J16 'HEADER 8_HEADER_8_SMT_254MM_HEA':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5281664@CONNECTOR.HEADER 8.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5281664@connector.\header 8.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5281664@connector.\header 8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J17 'HEADER 8_HEADER_8_SMT_254MM_HEA':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5282563@CONNECTOR.HEADER 8.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5282563@connector.\header 8.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5282563@connector.\header 8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J18 'HEADER 8_HEADER_8_SMT_254MM_HEA':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5282661@CONNECTOR.HEADER 8.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5282661@connector.\header 8.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5282661@connector.\header 8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J19 'HEADER 8_HEADER_8_SMT_254MM_HEA':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5282759@CONNECTOR.HEADER 8.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5282759@connector.\header 8.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5282759@connector.\header 8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER 8_HEADER_8_SMT_254MM_KEY':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5149930@CONNECTOR.HEADER 8.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5149930@connector.\header 8.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5149930@connector.\header 8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J20 'HEADER 8_HEADER_8_SMT_254MM_CTR':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5287334@CONNECTOR.HEADER 8.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5287334@connector.\header 8.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5287334@connector.\header 8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J21 'HEADER 8_HEADER_8_SMT_254MM_MOT':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5287362@CONNECTOR.HEADER 8.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5287362@connector.\header 8.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5287362@connector.\header 8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J22 'HEADER 2_JUMPER2_MOTOR PWR CONN':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5287518@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5287518@connector.\header 2.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5287518@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J24 'CON2_1_DC_JACK_CON2':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5306811@SOLAR.CON2_1.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5306811@solar.\con2_1.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5306811@solar.\con2_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J25 'HEADER 2_JUMPER2_SHORT WINDING':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5317407@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5317407@connector.\header 2.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5317407@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'HEADER 2_JUMPER2_MAGSENSOR CONN':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5150375@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5150375@connector.\header 2.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5150375@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'CON2_1_DC_JACK_CON2':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5172287@SOLAR.CON2_1.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5172287@solar.\con2_1.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5172287@solar.\con2_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'HEADER 8_HEADER_8_SMT_254MM_HEA':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5184952@CONNECTOR.HEADER 8.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5184952@connector.\header 8.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5184952@connector.\header 8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'HEADER 5_JUMPER5_HEADER 5':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5185429@CONNECTOR.HEADER 5.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5185429@connector.\header 5.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5185429@connector.\header 5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_INDM5252X180N_10UH':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5300738@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5300738@discrete.\inductor.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5300738@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'MOSFET N_1_SOT23-3A_MOSFET N':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5187468@SOLAR.MOSFET N_1.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5187468@solar.\mosfet n_1.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5187468@solar.\mosfet n_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q31 'SI7288_0_MOSFET_SI7272DP-T1-GE3':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5300971@SOLAR_UNIPOLARMOTOR.SI7288_0A.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5300971@solar_unipolarmotor.\si7288_0a.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5300971@solar_unipolarmotor.\si7288_0a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5301020@SOLAR_UNIPOLARMOTOR.SI7288_0B.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5301020@solar_unipolarmotor.\si7288_0b.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5301020@solar_unipolarmotor.\si7288_0b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ Q4 'MOSFET P_6_SOT23-3A_MOSFET P':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5243210@SOLAR_UNIPOLARMOTOR.MOSFET P_6.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5243210@solar_unipolarmotor.\mosfet p_6.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5243210@solar_unipolarmotor.\mosfet p_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q5 'MOSFET P_6_POWERPAK_MOSFET P':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5287650@SOLAR_UNIPOLARMOTOR.MOSFET P_6.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5287650@solar_unipolarmotor.\mosfet p_6.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5287650@solar_unipolarmotor.\mosfet p_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q6 'MOSFET P_6_POWERPAK_MOSFET P':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5287796@SOLAR_UNIPOLARMOTOR.MOSFET P_6.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5287796@solar_unipolarmotor.\mosfet p_6.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5287796@solar_unipolarmotor.\mosfet p_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7 'MOSFET P_6_POWERPAK_MOSFET P':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5287966@SOLAR_UNIPOLARMOTOR.MOSFET P_6.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5287966@solar_unipolarmotor.\mosfet p_6.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5287966@solar_unipolarmotor.\mosfet p_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q8 'MOSFET P_6_POWERPAK_MOSFET P':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5288032@SOLAR_UNIPOLARMOTOR.MOSFET P_6.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5288032@solar_unipolarmotor.\mosfet p_6.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5288032@solar_unipolarmotor.\mosfet p_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R100 'R_0402R_B_1K':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5249102@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5249102@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5249102@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R101 'R_0402R_B_0':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5251740@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5251740@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5251740@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R102 'R_0402R_B_1K':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5253843@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5253843@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5253843@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R104 'RESISTOR_0805D_100OHM':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5264341@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5264341@discrete.\resistor.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5264341@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R105 'R_0402R_B_1K':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5281088@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5281088@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5281088@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R106 'R_0402R_B_1K':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5282949@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5282949@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5282949@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R107 'R_0402R_B_1K':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5282975@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5282975@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5282975@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R108 'R_0402R_B_1K':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5292886@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5292886@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5292886@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R109 'R_0402R_B_0OHM':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5298058@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5298058@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5298058@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R110 'R_0402R_B_0OHM':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5298084@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5298084@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5298084@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R111 'R_0402R_B_10K':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5298581@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5298581@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5298581@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R112 'R_0402R_B_10K':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5298597@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5298597@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5298597@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R113 'R_0402R_B_10 OHM':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5298875@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5298875@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5298875@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R115 'R_0603G_B_270K':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5300568@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5300568@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5300568@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R116 'R_CAPC1632X76N_30 MOHM':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5300764@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5300764@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5300764@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R117 'R_0603G_B_499K':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5307163@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5307163@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5307163@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R118 'R_0603G_B_47K':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5307189@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5307189@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5307189@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R119 'R_0603G_B_5.23K':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5307412@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5307412@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5307412@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R120 'R_0603G_B_30.1K':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5307524@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5307524@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5307524@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R121 'R_0805R_2 OHM':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5310411@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5310411@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5310411@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R122 'R_0603G_B_499K':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5312595@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5312595@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5312595@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_0402R_B_1.2K':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5240133@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5240133@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5240133@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R70 'R_0402R_B_1K':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5240165@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5240165@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5240165@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R80 'RESISTOR VAR_VARR_858-35WR1KLFT':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5149395@DISCRETE.RESISTOR VAR.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5149395@discrete.\resistor var.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5149395@discrete.\resistor var.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R81 'RESISTOR_0805D_2.1K':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5150421@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5150421@discrete.\resistor.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5150421@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R90 'R_0402R_B_0':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5172428@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5172428@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5172428@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R98 'R_0402R_B_10K':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5220716@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5220716@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5220716@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R99 'R_0402R_B_5K':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5243268@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5243268@discrete.\r.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5243268@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RT1 'THERMISTOR_CAPC1005X55N_THERMIS':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5307790@DISCRETE.THERMISTOR.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5307790@discrete.\thermistor.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5307790@discrete.\thermistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U17 'PC85063BTL_1_DFN-10_DD_PCF85063':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5148100@SOLAR.PC85063BTL_1.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5148100@solar.\pc85063btl_1.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5148100@solar.\pc85063btl_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U19 'STC15_LQFP-44_STC15_LQFP44':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5158456@SOLAR_PART.STC15.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5158456@solar_part.\stc15.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5158456@solar_part.\stc15.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U20 'NCP5501UG_DPAK229P990X238-3N_NC':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5169890@SOLAR_PART.NCP5501UG.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5169890@solar_part.\ncp5501ug.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5169890@solar_part.\ncp5501ug.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U23 'SN74LV4051A-Q1_SOP65P640X120-16':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5183935@SOLAR_PART.SN74LV4051A-Q1.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5183935@solar_part.\sn74lv4051a-q1.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5183935@solar_part.\sn74lv4051a-q1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U24 'SN74LV4051A-Q1_SOP65P640X120-16':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5189796@SOLAR_PART.SN74LV4051A-Q1.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5189796@solar_part.\sn74lv4051a-q1.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page2_ins5189796@solar_part.\sn74lv4051a-q1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U25 'DIO5158XS8_0_SOIC127P600X170-9N':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5246257@SOLAR.DIO5158XS8_0.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5246257@solar.\dio5158xs8_0.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5246257@solar.\dio5158xs8_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U26 'PI4IOE5V96248_PI4IOE5V96248ZLEX':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5279774@SOLAR_PART.PI4IOE5V96248A.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5279774@solar_part.\pi4ioe5v96248a.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5279774@solar_part.\pi4ioe5v96248a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5280006@SOLAR_PART.PI4IOE5V96248B.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5280006@solar_part.\pi4ioe5v96248b.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5280006@solar_part.\pi4ioe5v96248b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ U27 'ULN2004A_DIL16_ULN2004A':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5287390@SOLAR_PART.ULN2004A.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5287390@solar_part.\uln2004a.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5287390@solar_part.\uln2004a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U28 'BQ24650_3_QFN50P350X350X100-17N':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5296315@SOLAR_UNIPOLARMOTOR.BQ24650_3.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5296315@solar_unipolarmotor.\bq24650_3.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5296315@solar_unipolarmotor.\bq24650_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U30 'PDS1040L_0_DIO_SBR10U200P5_13_P':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5306759@SOLAR_UNIPOLARMOTOR.PDS1040L_0.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5306759@solar_unipolarmotor.\pds1040l_0.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5306759@solar_unipolarmotor.\pds1040l_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_XTAL320X150X90_32.768KH':;
+
+SECTION_NUMBER 1
+ '@SOLAR_UNIPOLARMOTOR.SCHEMATIC1(SCH_1):INS5148311@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@solar_unipolarmotor.schematic1(sch_1):ins5148311@discrete.\crystal.normal\(chips)',
+ P_PATH='@solar_unipolarmotor.schematic1(sch_1):page1_ins5148311@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
